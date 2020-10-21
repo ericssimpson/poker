@@ -1,6 +1,6 @@
 # Poker
 
-A Simple SHELL Based Classic Poker Game Against The CPU.
+A Simple SHELL Based Classic Poker Game Against The CPU & Other Players.
 
 ### Technologies Used:
 * C/C++
